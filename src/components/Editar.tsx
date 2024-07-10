@@ -1,5 +1,5 @@
 import { Pencil } from 'lucide-react'
-import Formulario from './Formulario'
+import Formulario from '@/components/Formulario'
 import { TypeProduto } from '@/types'
 
 interface Props {

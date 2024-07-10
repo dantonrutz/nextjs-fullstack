@@ -2,7 +2,7 @@
 
 import { deleteProdutoByID } from '@/app/action'
 import { Trash2 } from 'lucide-react'
-import { useToast } from './ui/use-toast'
+import { useToast } from '@/components/ui/use-toast'
 
 interface Props {
   id: string

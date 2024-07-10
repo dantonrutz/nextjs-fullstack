@@ -1,10 +1,10 @@
 'use client'
 
+import { useState } from 'react'
 import { insertProduto, updateProduto } from '@/app/action'
 import { Dialog, DialogContent, DialogTrigger } from '@/components/ui/dialog'
 import { TypeProduto } from '@/types'
-import { useState } from 'react'
-import { useToast } from './ui/use-toast'
+import { useToast } from '@/components/ui/use-toast'
 
 interface Props {
   children: React.ReactNode

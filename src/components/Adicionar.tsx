@@ -1,5 +1,5 @@
 import { Plus } from 'lucide-react'
-import Formulario from './Formulario'
+import Formulario from '@/components/Formulario'
 
 export default function Adicionar() {
   return (

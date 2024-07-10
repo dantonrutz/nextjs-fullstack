@@ -1,6 +1,8 @@
 # Projeto Next.js com Mongoose
 
-Este projeto foi desenvolvido para a disciplina de Desenvolvimento de Aplicações para Internet. Trata-se de um CRUD simples utilizando MongoDB e Next.js v14.
+Este projeto foi desenvolvido para a disciplina de Desenvolvimento de Aplicações para Internet. 
+Trata-se de um CRUD simples utilizando MongoDB e Next.js v14.
+O foco do projeto foi integrar a pasta `app` com os `route handlers`, proporcionando uma arquitetura organizada e eficiente para o desenvolvimento de aplicações web. Essa abordagem permite centralizar o front-end e o back-end, facilitando a manutenção e o desenvolvimento contínuo da aplicação.
 
 ## Tecnologias Utilizadas
 
@@ -40,3 +42,7 @@ Siga os passos abaixo para instalar e rodar o projeto localmente:
 
 5. **Acesse o projeto no navegador**
   (http://localhost:3000/)
+
+## Atenção
+
+O projeto ainda não está pronto para ser colocado em produção. Embora esteja funcional, ele precisa passar por uma revisão detalhada e ajustes importantes para garantir que atenda aos requisitos de qualidade e segurança necessários para um ambiente de produção. Algumas partes do código podem precisar ser otimizadas, e testes adicionais são recomendados para assegurar seu bom desempenho e estabilidade.

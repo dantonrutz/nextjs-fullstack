@@ -2,7 +2,6 @@ import Image from 'next/image'
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
-import React from 'react'
 import nextImage from '../../public/next.svg'
 import { Toaster } from '@/components/ui/toaster'
 
